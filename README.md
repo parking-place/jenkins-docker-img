@@ -1,2 +1,2 @@
 # jenkins-docker-img
-jenkins에서 도커가 사용하고 싶었
+docker에서 돌아가는 jenkins에서 docker가 사용하고 싶었
